@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coming-soon/static/css/main.b2ab2e7c.css",
+    "main.js": "/coming-soon/static/js/main.5b93bdb9.js",
+    "static/media/hero-desktop.jpg": "/coming-soon/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/bg-pattern-desktop.svg": "/coming-soon/static/media/bg-pattern-desktop.964ebd4dd8014fd040d7.svg",
+    "index.html": "/coming-soon/index.html",
+    "main.b2ab2e7c.css.map": "/coming-soon/static/css/main.b2ab2e7c.css.map",
+    "main.5b93bdb9.js.map": "/coming-soon/static/js/main.5b93bdb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ab2e7c.css",
+    "static/js/main.5b93bdb9.js"
+  ]
+}
